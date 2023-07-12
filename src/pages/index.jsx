@@ -16,7 +16,7 @@ import logoAirbnb from '@/images/logos/airbnb.svg'
 import logoFacebook from '@/images/logos/facebook.svg'
 import logoPlanetaria from '@/images/logos/planetaria.svg'
 import logoStarbucks from '@/images/logos/starbucks.svg'
-import logoISocialWeb from '@/images/logos/iSocialWeb.svg'
+import logoISocialWeb from '@/images/logos/isocialweb.svg'
 import logoUVigo from '@/images/logos/uvigo.svg'
 import logoUserCircle from '@/images/logos/user-circle.svg'
 
