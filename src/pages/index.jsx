@@ -272,10 +272,10 @@ export default function Home({ articles }) {
             Luis Fernández González
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-          Consultor SEO, ingeniero de telecomunicaciones y programador especializado en IA con sede en España.
+          Consultor SEO, ingeniero de telecomunicaciones y programador especializado en IA con sede en España. Socio de Álvaro Rondón, experto en<a href="https://alvarorondon.com/entrega-de-premios-vocacion-digital-raiola-minuto-a-minuto/">Premios vocación digital Raiola</a>.
           Estoy enfocado en SEO técnico y programático para grandes sitios web y en el desarrollo de herramientas de crecimiento impulsadas por inteligencia artificial y automatización.
           </p>
-          <a href="https://alvarorondon.com/entrega-de-premios-vocacion-digital-raiola-minuto-a-minuto/">Premios vocación digital Raiola</a>
+          
           <div className="flex gap-6 mt-6">
             <SocialLink
               href="https://twitter.com/hiitsluis"
