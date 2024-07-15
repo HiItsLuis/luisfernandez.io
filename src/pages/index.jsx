@@ -275,6 +275,7 @@ export default function Home({ articles }) {
           Consultor SEO, ingeniero de telecomunicaciones y programador especializado en IA con sede en España.
           Estoy enfocado en SEO técnico y programático para grandes sitios web y en el desarrollo de herramientas de crecimiento impulsadas por inteligencia artificial y automatización.
           </p>
+          <a href="https://alvarorondon.com/entrega-de-premios-vocacion-digital-raiola-minuto-a-minuto/">Premios vocación digital Raiola</a>
           <div className="flex gap-6 mt-6">
             <SocialLink
               href="https://twitter.com/hiitsluis"
